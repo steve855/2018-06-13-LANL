@@ -202,6 +202,7 @@ dc_site: "http://datacarpentry.org"
 swc_github: "https://github.com/swcarpentry"
 swc_site: "https://software-carpentry.org"
 swc_pages: "https://swcarpentry.github.io"
+fraserphysics_pages: "https://fraserphysics.github.io"
 lc_site: "http://librarycarpentry.github.io/"
 template_repo: "https://github.com/swcarpentry/styles"
 example_repo: "https://github.com/swcarpentry/lesson-example"
@@ -284,7 +285,7 @@ FIXME
 
 ROOT_AIO_MD = '''\
 ---
-layout: page 
+layout: page
 root: .
 ---
 <script>
